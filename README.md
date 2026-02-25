@@ -64,6 +64,6 @@ While we aren't saving to a database, `useEffect` is used here to monitor state 
 ```text
 src/
 ├── components/     # UI Building blocks (TodoItem, TodoList)
-├── App.jsx         # Main logic & hook implementation
-├── main.jsx        # Entry point
-└── App.css         # Styling
+├── App.tsx         # Main logic & hook implementation
+├── main.tsx        # Entry point
+└── index.css         # Styling
